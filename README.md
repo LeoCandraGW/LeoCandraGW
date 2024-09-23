@@ -21,6 +21,9 @@
     I’m a graduate computer science student from Satya Wacana Christian University in Salatiga. I am a web developer using Laravel and React. I am also an Android developer using Flutter. Known for my hard work and quick learning ability, I have also completed bootcamps in Multi-Platform and Back-End development to further enhance my skills and stay updated with industry trends. 
   </p>
 </div>
+<div>
+  ### :man_technologist: About Me :
+</div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
