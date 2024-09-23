@@ -18,7 +18,7 @@
   Hi I'm Leo Candra 
 </h1>
   <p>
-    I’m a graduate computer science student from Satya Wacana Christian University in Salatiga. I am a web developer using Laravel and React. I am also an Android developer using Flutter. Known for my hard work and quick learning ability, I have also completed bootcamps in Multi-Platform and Back-End development to further enhance my skills and stay updated with industry trends. 
+    "I am a graduate computer science student from Satya Wacana Christian University in Salatiga. I work as a web developer using Laravel and React, and I am also an Android developer using Flutter. Known for my hard work and quick learning ability, I have completed bootcamps in multi-platform and back-end development to further enhance my skills and stay updated with industry trends."
   </p>
 </div>
 <div>
@@ -26,6 +26,25 @@
 
 ### :woman_technologist: About Me :
   I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  
+  - :telescope: “I’m working as a Software Engineer, primarily contributing to the frontend development of web applications. I also have some experience with backend development using Laravel.”
+
+  - :zap: "In my free time, I like to learn new things to enhance my skills."
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
