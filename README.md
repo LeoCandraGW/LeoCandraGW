@@ -24,7 +24,7 @@
 <div>
 ---
 
-### :woman_technologist: About Me :
+### :hammer_and_wrench: Languages and Tools :
   I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
   - :telescope: “I’m working as a Software Engineer, primarily contributing to the frontend development of web applications. I also have some experience with backend development using Laravel.”
@@ -48,7 +48,7 @@
 </div>
 ---
 
-### .
+### :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
